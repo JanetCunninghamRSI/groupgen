@@ -1,3 +1,5 @@
+## NOTE: node_modules NOT committed. When cloning, please '$ npm i' to get them.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
